@@ -27,3 +27,4 @@ Esta rama contiene los siguientes trabajos:
   //Ejercicio 12 impuestos ( Impuesto - Contribuyente - Calculadora )
   //Ejercicio 13 generadorqr ( GeneradorQR - Usuario - CódigoQR )
   //Ejercicio 14 editorvideo ( EditorVideo - Proyecto - Render )
+* **TP6 - Colecciones 
